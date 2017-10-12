@@ -1,4 +1,6 @@
-#Welcome ol user
+#Wilkommen zu dem Living Styleguide von Olli
+
+Wenn das funktioniert, können wir den Styleguide selbst erstellen.
 
 This style guide is an example of what
 [hologram](http://trulia.github.io/hologram)  can help you build and
